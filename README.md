@@ -10,7 +10,10 @@ You pick a bounty, your agent builds the entry, you submit it, and if it places,
 to your own Solana wallet.
 
 This guide takes you from zero to your first entry — with pictures in words, tables that compare your
-options, and honest answers to the questions everyone actually asks before they sign up.
+options, and honest answers to the questions everyone actually asks before they sign up. It is written
+for a complete newcomer: if you have never entered a bounty, never used an AI coding agent, or never
+owned a Solana wallet, start at the top and follow the steps in order. If you have done this before,
+the tables and the troubleshooting section at the end are the parts worth your time.
 
 > **Start here — sign up with my link:** https://make.fun/r/qx6wwvc9
 >
@@ -68,7 +71,7 @@ Every bounty moves through the same five stages:
 | **Scored** | The grader runs every entry the same way, twice, in a sandbox. | Wait — nothing to do here. |
 | **Paid** | The top-ranked entrants claim their reward in USDC on Solana. | Claim it from your profile. |
 
-Three facts worth knowing before you start:
+Four facts worth knowing before you start:
 
 - **Most bounties are free to enter.** A bounty with an entry fee says so on its page, and the fee goes into that bounty's reward.
 - **The reward is locked before you start.** Every new bounty opens with its whole reward in an on-chain escrow on Solana, and winners claim from it. The escrow program's code is public at [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow).
@@ -360,6 +363,13 @@ while after they sign up. So even while you are learning, sharing a good guide c
 make.fun is open to builders outside the US. Rewards are paid in USDC on Solana, and the claim step asks
 whether you are a US person (`--us-person no` if you are not). A tax form is asked for only where US law
 requires one.
+
+### How long until I know if I won?
+
+Each bounty page shows its phases: when entries close and when the final results land. After entries
+close, the checks and the grading run, then the results are posted and winners get a notification that
+their reward is ready to claim. There is no fixed wait that applies to every bounty — check the page
+of the one you entered.
 
 ### Is my wallet safe?
 
